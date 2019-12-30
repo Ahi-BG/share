@@ -1,0 +1,298 @@
+body,
+button,
+input,
+select,
+td,
+textarea,
+th {
+  font-size: 12px;
+  line-height: 1.5;
+  font-family: -apple-system-font, PingFang SC, Helvetica Neue, Helvetica, STHeiTi, sans-serif;
+  color:
+    #000;
+}
+
+.navbar-default {
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+
+.navbar-default .navbar-brand {
+  color: #f8e644;
+  font-size: 37px;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #f8e644;
+}
+
+.navbar-default .navbar-text {
+  color: #f8e644;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #f8e644;
+}
+
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:focus {
+  color: #f8e644;
+}
+
+.navbar-default .navbar-nav>li>.dropdown-menu {
+  background-color: #ffffff;
+}
+
+.navbar-default .navbar-nav>li>.dropdown-menu>li>a {
+  color: #f8e644;
+}
+
+.navbar-default .navbar-nav>li>.dropdown-menu>li>a:hover,
+.navbar-default .navbar-nav>li>.dropdown-menu>li>a:focus {
+  color: #f8e644;
+  background-color: #ffffff;
+}
+
+.navbar-default .navbar-nav>li>.dropdown-menu>li.divider {
+  background-color: #ffffff;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu>.active>a,
+.navbar-default .navbar-nav .open .dropdown-menu>.active>a:hover,
+.navbar-default .navbar-nav .open .dropdown-menu>.active>a:focus {
+  color: #f8e644;
+  background-color: #ffffff;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus {
+  color: #f8e644;
+  background-color: #ffffff;
+  font-size: 18px;
+}
+
+.navbar-default .navbar-nav>.open>a,
+.navbar-default .navbar-nav>.open>a:hover,
+.navbar-default .navbar-nav>.open>a:focus {
+  color: #f8e644;
+  background-color: #ffffff;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: #ffffff;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #ffffff;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #f8e644;
+}
+
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #f8e644;
+}
+
+.navbar-default .navbar-link {
+  color: #f8e644;
+}
+
+.navbar-default .navbar-link:hover {
+  color: #f8e644;
+}
+
+@media (max-width: 767px) {
+  .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+    color: #f8e644;
+  }
+
+  .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu>li>a:focus {
+    color: #f8e644;
+  }
+
+  .navbar-default .navbar-nav .open .dropdown-menu>.active>a,
+  .navbar-default .navbar-nav .open .dropdown-menu>.active>a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu>.active>a:focus {
+    color: #f8e644;
+    background-color: #ffffff;
+  }
+}
+
+.form-control {
+  display: block;
+  width: 100%;
+  height: 26.85px;
+  padding: 6px 12px;
+  font-size: 14px;
+  margin-top: 1px;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #f8e644;
+  font-size: 18px;
+}
+
+.dropdown-toggle {
+  font-size: 18px;
+}
+
+.btn-default {
+  width: 48px;
+  padding: 2px;
+  background-color: #f8e644;
+  border: none;
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.btn-default:hover {
+  color: #fff;
+  background-color: #f8e644;
+  border-color: #f8e644;
+  text-decoration: none;
+}
+
+.navbar-btn {
+  margin-top: 9px;
+  margin-bottom: 8px;
+}
+
+/*导航栏以下*/
+
+.aap-download-guide {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.aap-download-guide>img {
+  width: 998px;
+}
+
+.row {
+  width: 0 auto;
+  margin-left: 162px;
+}
+
+.l {
+  float: left !important;
+  display: inline-flex;
+}
+
+/*轮播图*/
+.carousel {
+  width: 725px;
+  height: 381px;
+}
+
+.carousel-inner>.item>img {
+  display: block;
+  width: 100%;
+  height: 381px;
+}
+
+#dt-hot {
+  overflow: hidden;
+  background-color:
+    #fff;
+  height: 380px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-left: 16px;
+  box-sizing: border-box;
+  border: 1px solid #e0e0e0;
+  border-left-color: rgb(224, 224, 224);
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-left: none;
+}
+
+#dt-hot .dt-tags .dt-span-sline a {
+  color: #858a8e;
+  text-decoration: none;
+}
+
+#dt-hot .dt-tags .dt-span-sline .dt-tag {
+  display: inline-block;
+  padding: 4px 12px;
+  margin-bottom: 12px;
+  margin-right: 10px;
+  border: 1px solid #cdcdcd;
+  border-radius: 28px;
+  color: #cdcdcd;
+  font-family: '\5B8B\4F53';
+  cursor: pointer;
+}
+
+#dt-hot .dt-activity-wrap a {
+  border-radius: 28px;
+  line-height: 17px;
+  color: #777;
+  text-decoration: none;
+}
+
+#dt-hot .dt-activity-wrap a>span.dt_label {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 28px 0 0 28px;
+  color: #fff;
+  text-decoration: none;
+  background-color: #f8e644;
+  border: 1px solid #f8e644;
+  font-size: 14px;
+  vertical-align: middle;
+}
+
+#dt-hot .dt-activity-wrap a>span.dt-activity-name {
+  display: inline-block;
+  padding: 4px 12px;
+  max-width: 130px;
+  border-radius: 0 28px 28px 0;
+  border: 1px solid #e0e0e0;
+  border-left-color: rgb(224, 224, 224);
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-left: none;
+  font-size: 14px;
+  white-space: nowrap;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  vertical-align: middle;
+}
+
+#dt-hot #pg-appdload-text a {
+  display: block;
+  margin-top: 9px;
+  width: 84px;
+  height: 28px;
+  background-color: #f8e644;
+  border-radius: 28px;
+  color: #fff;
+  font-size: 14px;
+  text-align: center;
+  line-height: 28px;
+  text-decoration: none;
+}
+
+.page-header {
+  padding-bottom: 9px;
+  margin: 26px 0 20px;
+  border-bottom: 1px solid #eee;
+}
+
+#myImg img{
+  width: 250px;
+  height: 250px;
+}
+
+
+

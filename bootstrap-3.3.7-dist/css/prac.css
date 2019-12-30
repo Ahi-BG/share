@@ -1,0 +1,139 @@
+/* body {
+    padding: 0;
+    margin: 0;
+}
+:host {
+    display: block;
+    width: 610px;
+    height: 580px;
+    background-color: #ffffffe5;
+    border: 1px solid #d5d5d5;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+    overflow: hidden;
+    padding: 20px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.image {
+
+    width: 50px;
+    height: 50px;
+    vertical-align: middle;
+    border-radius: 50px;
+}
+
+.container {
+    box-sizing: border-box;
+    padding: 0px 20px;
+    height: 60px;
+    width: 510px;
+    float: right;
+}
+
+.container>.name {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1;
+    margin: 0;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+
+.container>.divide {
+    font-size: 15px;
+    opacity: 0.7;
+    line-height: 1;
+    margin: 0;
+    margin-bottom: 15px;
+    display: inline-block;
+}
+
+.container>.button {
+    padding: 7px 10px;
+    font-size: 11px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    background-color: coral;
+    float: right;
+    font-weight: 800;
+    color: #d5d5d5;
+}
+
+.user-info {
+    width: 100%;
+    height: 60px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.img-container {
+    width: 370px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+
+}
+
+.img1 {
+    width: 114px;
+    height: 114px;
+    border-radius: 8px;
+    border: 0;
+    cursor: pointer;
+
+}
+
+a {
+    text-decoration: none;
+    width: 114px;
+    height: 114px;
+    margin-bottom: 9px;
+    margin-left: 9px;
+}
+
+.action {
+    border: none;
+    border-top: 1px solid #e0e0e0;
+    position: relative;
+
+}
+
+.action-list {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+
+.one-action {
+    margin: 10px 0;
+    height: 44px;
+    border-right: 1px solid #e0e0e0;
+    -webkit-box-flex: 1;
+    flex: 1;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    text-align: center;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+
+}
+
+.one-action img {
+    -webkit-animation: zoom .3s ease;
+    width: 24px;
+    height: 24px;
+    display: block;
+    margin-right: 12px;
+}
+
+.one-action span {
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+} */
